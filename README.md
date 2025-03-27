@@ -6,3 +6,14 @@
 <p>Use the Titanic dataset to build a model that predicts whether a
 passenger on the Titanic survived or not.I have use logistic Regression
 and Decision Tree Classsifier and applied Kfloding techniques and cross validation.</p><br>
+<h3>IMPLEMENTATION</h3>
+<p>
+  
+  1. Data Understanding & Preprocessing
+  
+  2. Model Selection & Training
+
+  3. Model Evaluation
+   
+  4. Code Implementation</p>
+
